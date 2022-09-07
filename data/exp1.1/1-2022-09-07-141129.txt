@@ -1,0 +1,19 @@
+I Experiment name  : exp1.1
+I Task name : PyTreadmillTask
+I Task file hash : 2753806546
+I Setup ID : COM7
+I Subject ID : 1
+I Start date : 2022/09/07 14:11:29
+
+S {"reward": 4, "trial_start": 2, "odour_release": 3, "intertrial": 1, "penalty": 5}
+
+E {"lick_off": 8, "IT_timer": 10, "lick": 7, "session_timer": 9, "motion": 6, "reward_timer": 12, "odour_timer": 11}
+
+
+
+! Traceback (most recent call last):
+!   File "<stdin>", line 1, in <module>
+!   File "pyControl/framework.py", line 232, in run
+!   File "pyControl/state_machine.py", line 54, in _start
+!   File "task_file.py", line 125, in run_start
+! AttributeError: 'MotionDetector_2ch' object has no attribute 'power_up'

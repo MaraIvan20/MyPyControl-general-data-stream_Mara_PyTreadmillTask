@@ -1,0 +1,38 @@
+I Experiment name  : exp3
+I Task name : test
+I Task file hash : 1927824128
+I Setup ID : COM7
+I Subject ID : 3
+I Start date : 2022/09/06 13:36:01
+
+S {"intertrial": 1}
+
+E {"session_timer": 3, "motion": 2}
+
+
+P 0 internal th=31000.0
+P 1 external th=4.472131
+P 2 CPI=100
+D 2 1
+D 8869 2
+P 8873 1
+D 12149 2
+P 12153 2
+D 18029 2
+P 18033 3
+D 19629 2
+P 19633 4
+D 33639 2
+P 33643 5
+D 35049 2
+P 35053 6
+D 58529 2
+P 58533 7
+D 59109 2
+P 59113 8
+D 59709 2
+P 59713 9
+D 61769 2
+P 61773 10
+D 62199 2
+P 62203 11

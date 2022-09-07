@@ -1,0 +1,14 @@
+{
+    "data_dir": "c:\\PyC\\FINAL_test\\data\\exp1",
+    "hardware_test": "no hardware test",
+    "name": "exp1",
+    "subjects": {
+        "444": {
+            "run": true,
+            "setup": "COM7"
+        }
+    },
+    "subset_warning": true,
+    "task": "test",
+    "variables": []
+}

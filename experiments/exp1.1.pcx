@@ -1,0 +1,22 @@
+{
+    "data_dir": "c:\\PyC\\MyPyControl-general-data-stream_Mara\\gui_for_treadmilltask\\data\\exp1.1",
+    "hardware_test": "no hardware test",
+    "name": "exp1.1",
+    "subjects": {
+        "1": {
+            "run": true,
+            "setup": "COM7"
+        },
+        "2": {
+            "run": false,
+            "setup": "COM7"
+        },
+        "3": {
+            "run": false,
+            "setup": "COM7"
+        }
+    },
+    "subset_warning": true,
+    "task": "PyTreadmillTask",
+    "variables": []
+}
