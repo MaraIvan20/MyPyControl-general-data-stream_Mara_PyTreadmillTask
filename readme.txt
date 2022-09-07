@@ -20,7 +20,7 @@ Version: v1.6.2
 
 
 
-
-See gui_treadmill_task folder for the files of the treamill task gui; files from gui folder and pyTreadmillTask.py modified too, commented with #NEW!
-?to uncomment the lines in config/hardware_definition.py
+I adapted the original pyControl GUI to be able to show the trajectory plot and a reward/penalty barchart for the PyTreadmillTask.py;
+What I added can be found in the gui_treadmilltask folder; 
+Additionally, some files in the gui folder and the PyTreadmillTask.py were modified, see comments #NEW!.
 
