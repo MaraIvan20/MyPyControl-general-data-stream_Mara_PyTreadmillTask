@@ -1,3 +1,5 @@
+From the original pyControl interface:
+
 pyControl is a system of software and hardware for controlling behavioural experiments based around the Micropython microcontroller.
 
 For more information please see the Docs: http://pycontrol.readthedocs.io/
@@ -19,6 +21,7 @@ Version: v1.6.2
 ---------------
 
 
+My work:
 
 I adapted the original pyControl GUI to be able to show the trajectory plot and a reward/penalty barchart for the PyTreadmillTask.py;
 What I added can be found in the gui_treadmilltask folder; 
